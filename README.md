@@ -3,9 +3,5 @@ Welcome!
 
 Here you can find projects that were done from mostly schoolwork and personal assignments.
 
-# Types of Programs Used
-Let's just say, I had a big habit of not using powerpoint for some school projects.
-
-I was using Macromedia Flash 8 and Python.
-
-You'll find interactive python games, practice files, and more.
+# Types of Projects
+You'll find interactive python games using Pygame, practice files, and swf that require third-party services to play (Adobe Flash is no longer supported on browsers).
