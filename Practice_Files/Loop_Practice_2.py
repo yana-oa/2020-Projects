@@ -1,7 +1,7 @@
-#Aight b here's yo loop practice
+#Aight les do this loop practice
 
-#Conditional Loopa
-#Ex 1: Simp Counter
+#Conditional Loops
+#Ex 1: Simple Counter
 count= 0
 while (count<100):
     print(count,"okay")
