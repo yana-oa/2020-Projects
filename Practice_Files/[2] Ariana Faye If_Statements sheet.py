@@ -1,5 +1,7 @@
 #Determining Grade
 print("Welcome to Part 1 of If-Statements: Determining Grade")
+
+#Input a grade percentage and return the corresponding letter grade
 while 1:
     mrk= float(input("Please enter a mark: "))
 
@@ -187,5 +189,5 @@ if (use== "G") or (use== "g"):
         print("Your total Government Water Rate Charge is: $", round(total,2))
     else:
         print("Invalid Input")
-
+#End!
         
